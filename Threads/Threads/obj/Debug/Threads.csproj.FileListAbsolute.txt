@@ -1,0 +1,14 @@
+E:\Threads\Threads\bin\Debug\Threads.exe.config
+E:\Threads\Threads\bin\Debug\Threads.exe
+E:\Threads\Threads\bin\Debug\Threads.pdb
+E:\Threads\Threads\obj\Debug\Threads.csprojAssemblyReference.cache
+E:\Threads\Threads\obj\Debug\Threads.csproj.CoreCompileInputs.cache
+E:\Threads\Threads\obj\Debug\Threads.exe
+E:\Threads\Threads\obj\Debug\Threads.pdb
+E:\Материалы\Threads\Threads\bin\Debug\Threads.exe.config
+E:\Материалы\Threads\Threads\bin\Debug\Threads.exe
+E:\Материалы\Threads\Threads\bin\Debug\Threads.pdb
+E:\Материалы\Threads\Threads\obj\Debug\Threads.csprojAssemblyReference.cache
+E:\Материалы\Threads\Threads\obj\Debug\Threads.csproj.CoreCompileInputs.cache
+E:\Материалы\Threads\Threads\obj\Debug\Threads.exe
+E:\Материалы\Threads\Threads\obj\Debug\Threads.pdb
