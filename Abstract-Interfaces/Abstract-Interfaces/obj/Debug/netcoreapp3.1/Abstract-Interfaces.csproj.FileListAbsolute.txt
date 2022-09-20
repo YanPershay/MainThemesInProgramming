@@ -1,0 +1,13 @@
+C:\YanPershay\TestProjects\Experiments\Abstract-Interfaces\Abstract-Interfaces\bin\Debug\netcoreapp3.1\Abstract-Interfaces.exe
+C:\YanPershay\TestProjects\Experiments\Abstract-Interfaces\Abstract-Interfaces\bin\Debug\netcoreapp3.1\Abstract-Interfaces.deps.json
+C:\YanPershay\TestProjects\Experiments\Abstract-Interfaces\Abstract-Interfaces\bin\Debug\netcoreapp3.1\Abstract-Interfaces.runtimeconfig.json
+C:\YanPershay\TestProjects\Experiments\Abstract-Interfaces\Abstract-Interfaces\bin\Debug\netcoreapp3.1\Abstract-Interfaces.runtimeconfig.dev.json
+C:\YanPershay\TestProjects\Experiments\Abstract-Interfaces\Abstract-Interfaces\bin\Debug\netcoreapp3.1\Abstract-Interfaces.dll
+C:\YanPershay\TestProjects\Experiments\Abstract-Interfaces\Abstract-Interfaces\bin\Debug\netcoreapp3.1\Abstract-Interfaces.pdb
+C:\YanPershay\TestProjects\Experiments\Abstract-Interfaces\Abstract-Interfaces\obj\Debug\netcoreapp3.1\Abstract-Interfaces.csproj.AssemblyReference.cache
+C:\YanPershay\TestProjects\Experiments\Abstract-Interfaces\Abstract-Interfaces\obj\Debug\netcoreapp3.1\Abstract-Interfaces.AssemblyInfoInputs.cache
+C:\YanPershay\TestProjects\Experiments\Abstract-Interfaces\Abstract-Interfaces\obj\Debug\netcoreapp3.1\Abstract-Interfaces.AssemblyInfo.cs
+C:\YanPershay\TestProjects\Experiments\Abstract-Interfaces\Abstract-Interfaces\obj\Debug\netcoreapp3.1\Abstract-Interfaces.csproj.CoreCompileInputs.cache
+C:\YanPershay\TestProjects\Experiments\Abstract-Interfaces\Abstract-Interfaces\obj\Debug\netcoreapp3.1\Abstract-Interfaces.dll
+C:\YanPershay\TestProjects\Experiments\Abstract-Interfaces\Abstract-Interfaces\obj\Debug\netcoreapp3.1\Abstract-Interfaces.pdb
+C:\YanPershay\TestProjects\Experiments\Abstract-Interfaces\Abstract-Interfaces\obj\Debug\netcoreapp3.1\Abstract-Interfaces.genruntimeconfig.cache
